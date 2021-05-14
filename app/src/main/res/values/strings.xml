@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">My Applicationdemo</string>
+    <string-array name="spins">
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+    </string-array>
 </resources>
