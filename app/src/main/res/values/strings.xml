@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">My Applicationdemo</string>
     <string-array name="spins">
-        <item>day</item>
-        <item>week</item>
-        <item>month</item>
+        <item>aujourd hui</item>
+        <item>cette semaine</item>
+        <item>tous</item>
     </string-array>
 </resources>
